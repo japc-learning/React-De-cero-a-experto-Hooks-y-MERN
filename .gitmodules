@@ -19,3 +19,6 @@
 [submodule "06-mis-custom-hooks"]
 	path = 06-mis-custom-hooks
 	url = https://github.com/pandc19/custom-hooks.git
+[submodule "07-heroes-spa"]
+	path = 07-heroes-spa
+	url = https://github.com/pandc19/react-07-heroes-spa.git

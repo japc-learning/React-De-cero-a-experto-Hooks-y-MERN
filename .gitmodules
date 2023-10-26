@@ -22,3 +22,6 @@
 [submodule "07-heroes-spa"]
 	path = 07-heroes-spa
 	url = https://github.com/pandc19/react-07-heroes-spa.git
+[submodule "08-journal-app"]
+	path = 08-journal-app
+	url = https://github.com/pandc19/react-08-journal-app.git

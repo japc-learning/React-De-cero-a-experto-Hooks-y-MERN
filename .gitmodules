@@ -25,3 +25,6 @@
 [submodule "08-journal-app"]
 	path = 08-journal-app
 	url = https://github.com/pandc19/react-08-journal-app.git
+[submodule "09-toolkit-redux"]
+	path = 09-toolkit-redux
+	url = https://github.com/pandc19/react-09-toolkit-redux.git

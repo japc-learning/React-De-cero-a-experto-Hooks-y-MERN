@@ -1,36 +1,36 @@
 [submodule "01-intro-react"]
 	path = 01-intro-react
-	url = https://github.com/pandc19/react-01-intro-react.git
+	url = https://github.com/japc-learning/react-01-intro-react.git
 [submodule "02-intro-javascript"]
 	path = 02-intro-javascript
-	url = https://github.com/pandc19/react-02-intro-javascript.git
+	url = https://github.com/japc-learning/react-02-intro-javascript.git
 [submodule "03-counter-app-cra"]
 	path = 03-counter-app-cra
-	url = https://github.com/pandc19/react-03-counter-app-cra.git
+	url = https://github.com/japc-learning/react-03-counter-app-cra.git
 [submodule "03-counter-app-vite"]
 	path = 03-counter-app-vite
-	url = https://github.com/pandc19/react-03-counter-app-vite.git
+	url = https://github.com/japc-learning/react-03-counter-app-vite.git
 [submodule "04-gif-expert-app"]
 	path = 04-gif-expert-app
-	url = https://github.com/pandc19/react-04-gif-expert-app.git
+	url = https://github.com/japc-learning/react-04-gif-expert-app.git
 [submodule "05-hook-app"]
 	path = 05-hook-app
-	url = https://github.com/pandc19/react-05-hook-app.git
+	url = https://github.com/japc-learning/react-05-hook-app.git
 [submodule "06-mis-custom-hooks"]
 	path = 06-mis-custom-hooks
-	url = https://github.com/pandc19/custom-hooks.git
+	url = https://github.com/japc-learning/custom-hooks.git
 [submodule "07-heroes-spa"]
 	path = 07-heroes-spa
-	url = https://github.com/pandc19/react-07-heroes-spa.git
+	url = https://github.com/japc-learning/react-07-heroes-spa.git
 [submodule "08-journal-app"]
 	path = 08-journal-app
-	url = https://github.com/pandc19/react-08-journal-app.git
+	url = https://github.com/japc-learning/react-08-journal-app.git
 [submodule "09-toolkit-redux"]
 	path = 09-toolkit-redux
-	url = https://github.com/pandc19/react-09-toolkit-redux.git
+	url = https://github.com/japc-learning/react-09-toolkit-redux.git
 [submodule "10-calendar"]
 	path = 10-calendar
-	url = https://github.com/pandc19/react-calendar.git
+	url = https://github.com/japc-learning/react-calendar.git
 [submodule "10-calendar-backend"]
 	path = 10-calendar-backend
-	url = https://github.com/pandc19/node-calendar-backend.git
+	url = https://github.com/japc-learning/node-calendar-backend.git
